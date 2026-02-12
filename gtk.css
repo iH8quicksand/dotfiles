@@ -1,0 +1,2 @@
+.nautilus-list-view row:nth-child(odd) { background:white; }
+.nautilus-list-view row:nth-child(even) { background: #f5f5f5; }
